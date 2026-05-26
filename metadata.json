@@ -1,0 +1,6 @@
+{
+  "name": "StoryMagic",
+  "description": "An AI-powered storybook app for kids that generates stories, illustrations, and reads them aloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
